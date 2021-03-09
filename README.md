@@ -3,7 +3,7 @@
 
 <details>
     <summary>herrmann brain</summary>
-
+    
 # herrmann brain
 ![헤르만 설계도](https://user-images.githubusercontent.com/79882952/110263473-28eb6880-7ffa-11eb-90e7-5b3f23899396.png)
 
@@ -11,8 +11,10 @@
 저는 Analytical, Relational, Experimental 이 우세하지만, Practical이 열등합니다.
 ```
 </details>
+
 <details>
     <summary>working environment</summary>
+    
 # working environment
 
 ![whatsmyip](https://user-images.githubusercontent.com/79882952/110263875-5553b480-7ffb-11eb-8d08-75f261bcf8a4.png)
