@@ -13,5 +13,13 @@
 ![whatsmyip](https://user-images.githubusercontent.com/79882952/110263875-5553b480-7ffb-11eb-8d08-75f261bcf8a4.png)
 
 ```
-android studio를 사용하여 프로그램을 개발합니다.
+Android Studio를 사용하여 프로그램을 개발합니다.
+```
+
+# week2 day1 1st hw
+
+![avd hw](https://user-images.githubusercontent.com/79882952/110406823-2fdfad00-80c6-11eb-8e50-922698dba2da.png)
+
+```
+Android Studio에서 App의 텍스트를 변경하는 실습
 ```
