@@ -21,6 +21,7 @@
 Android Studio를 사용하여 프로그램을 개발합니다.
 ```
 </details>
+
 # week2 day1 1st hw
 
 ![avd hw](https://user-images.githubusercontent.com/79882952/110406823-2fdfad00-80c6-11eb-8e50-922698dba2da.png)
