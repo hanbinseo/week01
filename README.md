@@ -24,10 +24,23 @@ Android Studio를 사용하여 프로그램을 개발합니다.
 ```
 </details>
 
+<details>
+    <summary>week2 day1 1st hw</summary>
+
 # week2 day1 1st hw
 
 ![avd hw](https://user-images.githubusercontent.com/79882952/110406823-2fdfad00-80c6-11eb-8e50-922698dba2da.png)
 
 ```
 Android Studio에서 App의 텍스트를 변경하는 실습
+```
+</details>
+
+# week2 day2 1st hw
+
+![commit](https://user-images.githubusercontent.com/79882952/110583325-e15b0d00-81b0-11eb-8f37-ffc547740dac.png)
+
+```
+Android Studio와 Github를 연동하는 실습
+Commit과 Pusy를 사용
 ```
