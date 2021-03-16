@@ -31,7 +31,7 @@ Android Studio를 사용하여 프로그램을 개발합니다.
 <details>
     <summary>week2 day1 1st hw</summary>
 
-# week2 day1 1st hw
+# week2 day1 hw
 
 ![avd hw](https://user-images.githubusercontent.com/79882952/110406823-2fdfad00-80c6-11eb-8e50-922698dba2da.png)
 
@@ -43,7 +43,7 @@ Android Studio에서 App의 텍스트를 변경하는 실습
 <details>
     <summary>week2 day2 1st hw</summary>
 
-# week2 day2 1st hw
+# week2 day2 hw
 
 ![commit](https://user-images.githubusercontent.com/79882952/110583325-e15b0d00-81b0-11eb-8f37-ffc547740dac.png)
 
@@ -56,6 +56,7 @@ Commit과 Pusy를 사용
 
 # week 3
 
+### week 3 day1 hw
 https://youtu.be/a6ChKInjLcs
 
 ```
