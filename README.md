@@ -2,6 +2,7 @@
 스마트정보통신공학과의 스마트모바일프로그램설계를 위한 github 입니다.
 
 # what i did?
+# week 1
 <details>
     <summary>herrmann brain</summary>
     
@@ -25,6 +26,8 @@ Android Studio를 사용하여 프로그램을 개발합니다.
 ```
 </details>
 
+# week 2
+
 <details>
     <summary>week2 day1 1st hw</summary>
 
@@ -37,6 +40,9 @@ Android Studio에서 App의 텍스트를 변경하는 실습
 ```
 </details>
 
+<details>
+    <summary>week2 day2 1st hw</summary>
+
 # week2 day2 1st hw
 
 ![commit](https://user-images.githubusercontent.com/79882952/110583325-e15b0d00-81b0-11eb-8f37-ffc547740dac.png)
@@ -44,4 +50,14 @@ Android Studio에서 App의 텍스트를 변경하는 실습
 ```
 Android Studio와 Github를 연동하는 실습
 Commit과 Pusy를 사용
+```
+
+</details>
+
+# week 3
+
+https://youtu.be/a6ChKInjLcs
+
+```
+Activity Lifecycle을 직접 구동하며 확인해보는 실습
 ```
